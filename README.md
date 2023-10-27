@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khusjit
+- 👋 Hi, I’m @Khushi
 - 👀 I’m interested in .codding..
 - 🌱 I’m currently learning .c.
 - 💞️ I’m looking to collaborate on .no one.
