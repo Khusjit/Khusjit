@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Khushi
-- 👀 I’m interested in .codding..
-- 🌱 I’m currently learning .c.
-- 💞️ I’m looking to collaborate on .no one.
-- 📫 How to reach me ..a successful codder.
+- 👋 Hi, I’m Khushi.
+- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Science.
+- 💞️ I’m looking to collaborate with tech enthusiasts who are passionate about coding and innovation.
+- 📫 How to reach me 
 -
 - 
 ## 🌐 Socials:
